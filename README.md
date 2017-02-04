@@ -1,1 +1,1 @@
-# Android weather app with yahoo api
+# Android weather app with yahoo weather api
